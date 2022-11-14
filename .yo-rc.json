@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.uy.atiliator.backendevtest",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "swaggerTest",
+    "packageName": "com.uy.atiliator.backendevtest",
+    "packageFolder": "com/uy/atiliator/backendevtest",
+    "serverPort": "5000",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "YjVlZWY2ZmE0MWUyNGMzZGY0OGFiNTYyNWQ0NjdjODBjYjYyNjQzZDA5Njc0ZWFkOWQyZTBhNjc4ZmRlNWZjMWYwNGE4YzI3ZjVmZDQ2Nzk2NjU3YzkxZGEzNmM2YjUyYWQ4MmU4MGYyNjY5ODg5OGY4OWJmZjVhODc5ZTNmOWY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1668446988339,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": ["es", "en"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
